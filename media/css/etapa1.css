@@ -1,0 +1,51 @@
+.check {
+	display: none;
+}
+
+.radioB{
+	display: none !important;
+}
+
+.label_radio {
+	padding: 25px;
+}
+
+.cardd{
+	padding: 10px;
+	margin-bottom: 15px !important;
+	margin-top: 30px !important;
+	margin: 280px; 
+	border-radius: 30px;
+}
+
+.carddd{
+	padding: 5px;
+	margin-bottom: 15px !important;
+	margin-top: 30px !important;
+	margin: 280px; 
+	border-radius: 30px;
+}
+label {
+	margin-bottom: .0rem;
+}
+
+label:hover {
+    cursor: pointer;
+    
+}
+
+
+
+.card:hover {
+    cursor: pointer;
+    background: rgb(40, 167, 69) !important;
+    color: #000 !important;
+}
+
+h2 {
+	font-size: 40px !important;
+	color: rgb(59, 67, 69) !important;
+	font-weight: 200 !important; 
+	margin-top: 50px !important;
+	text-align: center !important;
+}

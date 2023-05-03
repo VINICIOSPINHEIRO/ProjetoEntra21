@@ -1,0 +1,37 @@
+li a {
+	font-size: 22px !important;
+	font-weight: 500 !important;
+}
+
+i {
+	font-size: 25px !important;
+}
+
+
+.slide-center-out 
+{
+text-decoration:none !important;
+display: inline-block !important;
+color:blue;
+}
+/* add a empty string after the elment with class .slide-center-out  */
+.slide-center-out:after 
+{
+content: '';
+display: block;
+height: 3px;
+width: 0;
+background: transparent;
+transition: width .5s ease, background-color .5s ease;
+-webkit-transition: width .5s ease, background-color .5s ease;
+-moz-transition: width .5s ease, background-color .5s ease;
+ 
+margin:auto; /* center the cotent so it will sliding from the midddle to the left and right */
+}
+ 
+/* Change the width and background on hover, aka sliding from the middle to the left and right */
+.slide-center-out:hover:after 
+{
+width: 100%;
+background-color:rgb(79, 87, 89);
+}

@@ -1,0 +1,27 @@
+.ft{
+	/*background-color: rgb(10,68,161,0.80);*/
+}
+
+.ft1{
+	/*background-color: rgb(10,68,161,0.75);*/
+	text-align:center;
+}
+
+.nt li{
+	margin-top: 10px;
+	color: black;
+}
+
+ul 	li a {
+	color:rgba(0,0,0,0.6) !important;
+	font-size: 20px;
+} 
+
+.footer{
+	font-size: 1.4rem !important;
+}
+
+p{
+	font-size: 18px;
+
+}

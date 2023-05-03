@@ -1,0 +1,54 @@
+body {
+	background-color: #f1f8f8;
+}
+
+.shadow {
+	min-height: 330px; 
+	min-width: 100%; background-size: 100%;
+	background-position: center center;
+	padding-top: 128px;
+	margin-top: -118px;
+	background-repeat: no-repeat;
+}
+
+.top{
+	text-align: center;
+	
+	margin-top: -230px;
+}
+
+#batata{
+	 font-size: 50px !important;
+    color: rgb(59, 67, 69) !important;
+    font-weight: 200 !important; 
+    margin-top: 50px !important;
+    text-align: center; 
+}
+
+.txt1{
+	color: rgb(110, 120, 130);
+	text-align: center;
+	;
+}
+
+.txt2{
+	text-align: left;
+	color:rgb(168, 182, 186);
+  font-size: 20px;
+	
+}
+
+.txt3{
+	text-align: left;
+	color: rgb(82, 90, 100) !important;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.img1{
+	border-radius: 30px;box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+}
+
+.img2{
+	border-radius: 30px;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+}

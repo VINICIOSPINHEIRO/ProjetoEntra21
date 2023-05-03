@@ -1,0 +1,178 @@
+/* CSS de responsividade das definições globais do projeto */
+
+/* XS */
+@media(max-width: 576px) {
+	.img{
+		min-height: 100px !important;
+		min-width: 100% !important;
+		background-size: 220% !important;
+		background-position: center center;
+		padding-top: 480px !important;
+		margin-top: -535px !important;
+		background-repeat: no-repeat;
+	}
+
+	.h1{
+		padding-bottom: 100px;
+	}
+
+	.botao{
+		margin-top: -120px !important;
+	}
+
+	.img_sobre{
+		min-height: 100px !important;
+		min-width: 100% !important;
+		background-size: 205% !important;
+		background-position: center center;
+		padding-top: 650px !important;
+		margin-top: -509px !important;
+		background-repeat: no-repeat;
+	}
+
+	.img_p_medico{
+		min-height: 100px !important;
+		min-width: 100% !important;
+		background-size: 320% !important;
+		background-position: center center;
+		padding-top: 659px !important;
+		margin-top: -519px !important;
+		background-repeat: no-repeat;
+
+	}
+
+	.cardd {		
+		margin: 30px;
+	}
+
+	.carddd {		
+		margin: 30px;
+	}
+}
+
+/* SM */
+@media(min-width: 576px) and (max-width: 768px) {
+	.img{
+		min-height: 100px !important;
+		min-width: 100% !important;
+		background-size: 220% !important;
+		background-position: center center;
+		padding-top: 480px !important;
+		margin-top: -545px !important;
+		background-repeat: no-repeat;
+	}
+
+	.img_sobre{
+		min-height: 100px !important;
+		min-width: 100% !important;
+		background-size: 205% !important;
+		background-position: center center;
+		padding-top: 650px !important;
+		margin-top: -509px !important;
+		background-repeat: no-repeat;
+	}
+
+	.h1{
+		padding-bottom: 100px;
+	}
+
+	.botao{
+		margin-top: -120px !important;
+	}
+
+	.img_p_medico{
+		min-height: 100px !important;
+		min-width: 100% !important;
+		background-size: 320% !important;
+		background-position: center center;
+		padding-top: 659px !important;
+		margin-top: -519px !important;
+		background-repeat: no-repeat;
+	}
+
+	.cardd {		
+		margin: 30px;
+	}
+
+	.carddd {		
+		margin: 30px;
+	}
+}
+
+/* MD */
+@media(min-width: 768px) and (max-width: 992px) {
+	.img{
+		min-height: 100px !important;
+		min-width: 100% !important;
+		background-size: 220% !important;
+		background-position: center center;
+		padding-top: 480px !important;
+		margin-top: -545px !important;
+		background-repeat: no-repeat;
+	}
+
+	.h1{
+		padding-bottom: 100px;
+	}
+
+	.botao{
+		margin-top: -120px !important;
+	}
+
+	.cardd {		
+		margin: 80px;
+	}
+	.carddd {		
+		margin: 80px;
+	}
+
+	.img_sobre{
+		min-height: 100px !important;
+		min-width: 100% !important;
+		background-size: 205% !important;
+		background-position: center center;
+		padding-top: 650px !important;
+		margin-top: -509px !important;
+		background-repeat: no-repeat;
+	}
+
+	.img_p_medico{
+		min-height: 100px !important;
+		min-width: 100% !important;
+		background-size: 20s6% !important;
+		background-position: center center;
+		padding-top: 659px !important;
+		margin-top: -519px !important;
+		background-repeat: no-repeat;
+	}
+}
+
+/* LG */
+@media(min-width: 992px) and (max-width: 1200px) {
+	.img{
+		margin-top: -190px !important;
+	}
+
+	.cardd {		
+		margin: 180px;
+	}
+	
+	.carddd {		
+		margin: 180px;
+	}
+
+	.img_sobre{
+		min-height: 100px !important;
+		min-width: 100% !important;
+		background-size: 205% !important;
+		background-position: center center;
+		padding-top: 650px !important;
+		margin-top: -509px !important;
+		background-repeat: no-repeat;
+	}
+}
+
+/* XL */
+@media(min-width:1200px) {
+
+}

@@ -1,0 +1,134 @@
+.login-box{
+    width: 320px;
+    height: 420px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+
+.login-box p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.login-box input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+
+
+.login-box a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #fff;
+}
+
+.login-box a:hover
+{
+    color: #39dc79;
+}
+
+.btn{
+    border: none;
+    outline: none;
+    height: 50px;
+    background: rgb(10,68,161,0.75);
+    color: white;
+    font-size: 25px;
+    border-radius: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.login-box p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.login-box input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.login-box input[type="email"], input[type="password"]
+{
+    background: rgb(10,68,161,0.75);
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.login-box input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: rgb(10,68,161,0.90);
+    color: white;
+    font-size: 18px;
+    border-radius: 20px;
+    background: rgb(10,68,161,0.75);
+}
+
+.login-box input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #39dc79;
+    color: #000;
+}
+
+.bbo{
+    width: 50%;
+    border: none;
+    outline: none;
+    height: 50px;
+    background: rgb(0, 204, 0);
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    margin-bottom: 321px;
+}
+
+h5 {
+    font-family: Montserrat, sans-serif;
+    font-size: 80px;
+    line-height: 100px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+    text-align: center; 
+    
+}
+
+.row{
+    color: rgb(79, 87, 89);
+}
+
+.container h2{
+    font-size: 55px;
+    color: rgb(79, 87, 89);
+    font-weight: 200; 
+    margin-top: 50px; 
+}
+
+li {   
+  color:rgb(168, 182, 186);
+  font-size: 20px;
+}
+
+
+h1{
+    font-size: 50px;
+    font-weight: 500 !important;  
+}
